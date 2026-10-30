@@ -1,0 +1,22 @@
+Fri Oct 30 20:30:52 IST 2026
+Linux localhost 6.1.157-android14-11-g14047afecd8b-ab16012876 #1 SMP PREEMPT Tue Aug  4 11:44:32 UTC 2026 aarch64 Android
+Filesystem       Size Used Avail Use% Mounted on
+/dev/block/dm-61 223G 162G   60G  73% /data/misc/profiles/ref/com.termux
+{
+  "present": true,
+  "technology": "Li-poly",
+  "health": "GOOD",
+  "plugged": "UNPLUGGED",
+  "status": "DISCHARGING",
+  "temperature": 33.9,
+  "voltage": 3747,
+  "current": -312000,
+  "current_average": null,
+  "percentage": 28,
+  "level": 28,
+  "scale": 100,
+  "charge_counter": 1325000,
+  "energy": null,
+  "cycle": 505
+}
+Termux:API is not yet available on Google Play - see https://github.com/termux-play-store/termux-apps/issues/29 for updates
